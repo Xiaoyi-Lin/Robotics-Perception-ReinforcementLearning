@@ -6,7 +6,7 @@
 - [Lane Tracking](#lane-tracking)
  
 ## REVIEW
-- **Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review;** Yeong, Velasco-Hernandez, Barry, Walsh; *[Sensors 2021]*
+- **Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review;** Yeong, Velasco-Hernandez, Barry, Walsh; *Sensors 2021*
 
 ## LANE TRACKING
 

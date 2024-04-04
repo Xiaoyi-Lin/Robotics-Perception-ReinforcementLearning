@@ -1,5 +1,5 @@
 # Robotics Perception & Reinforcement Learning
-** Note:** This repository is a record for most relavant papers I read. It includes most cited and recent researchs in the domain of reinforcement learning for robotics and advanced perception.
+**Note:** This repository is a record for most relavant papers I read. It includes most cited and recent researchs in the domain of reinforcement learning for robotics and advanced perception.
 
 ## CONTENTS
  -[Review](#review)
